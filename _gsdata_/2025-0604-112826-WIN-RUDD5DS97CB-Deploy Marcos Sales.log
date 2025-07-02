@@ -1,0 +1,14 @@
+2025-06-04 11:28:27: Turning Off Copy Attributes, as one of file systems does not support it
+2025-06-04 11:28:28: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2025-06-04 11:28:28: - Análise iniciada por On File Change First Full Analyze Upon Folder Connect
+2025-06-04 11:28:28: E: Lendo Arquivo de Estado C:/Users/joao_/OneDrive/Documentos/Thryve/CLIENTES/Marcos sales/Site-Marcos/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:28: E: State file does not exist: C:/Users/joao_/OneDrive/Documentos/Thryve/CLIENTES/Marcos sales/Site-Marcos/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:28: D: Lendo Arquivo de Estado ftp://147.79.84.153:21/public_html/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:28: D: State file does not exist: ftp://147.79.84.153:21/public_html/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:30: D: No disco ftp://147.79.84.153:21, o espaço necessário para a sincronização é 0.00, o espaço livre é desconhecido
+2025-06-04 11:28:30: Alterações: 0, Conflitos: 0, Tempo: 0, Correções: 174, Erros: 0, All: 175
+2025-06-04 11:28:31: == Sincronização iniciada por On File Change First Full Analyze Upon Folder Connect
+2025-06-04 11:28:31: Start only 0 threads, limited by tasks to run
+2025-06-04 11:28:31: Salvar arquivo de estado C:/Users/joao_/OneDrive/Documentos/Thryve/CLIENTES/Marcos sales/Site-Marcos/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:31: Salvar arquivo de estado ftp://147.79.84.153:21/public_html/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:31: == Sincronização concluída. Tempo: 00:00:00, Velocidade: 0.00/s, OK: 174, Erros: 0

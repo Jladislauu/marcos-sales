@@ -1,0 +1,10 @@
+2025-06-04 11:28:40: - Análise iniciada por On File Change, After Delay
+2025-06-04 11:28:40: D: No disco ftp://147.79.84.153:21, o espaço necessário para a sincronização é 0.00, o espaço livre é desconhecido
+2025-06-04 11:28:40: Alterações: 1, Conflitos: 0, Tempo: 0, Correções: 0, Erros: 0, All: 175
+2025-06-04 11:28:40: Left to Right: Copy File: 1 
+2025-06-04 11:28:41: == Sincronização iniciada por On File Change, After Delay
+2025-06-04 11:28:41: Start only 1 threads, limited by tasks to run
+2025-06-04 11:28:42: Copiar 'C:/Users/joao_/OneDrive/Documentos/Thryve/CLIENTES/Marcos sales/Site-Marcos/index.html' -> 'ftp://147.79.84.153:21/public_html/index.html' (27,344)
+2025-06-04 11:28:42: Salvar arquivo de estado C:/Users/joao_/OneDrive/Documentos/Thryve/CLIENTES/Marcos sales/Site-Marcos/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:42: Salvar arquivo de estado ftp://147.79.84.153:21/public_html/_gsdata_/_file_state_v4._gs
+2025-06-04 11:28:42: == Sincronização concluída. Tempo: 00:00:01, Velocidade: 0.00/s, OK: 1, Erros: 0

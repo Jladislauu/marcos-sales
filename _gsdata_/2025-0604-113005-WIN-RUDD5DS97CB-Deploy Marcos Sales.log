@@ -1,0 +1,6 @@
+2025-06-04 11:30:07: - Análise iniciada por On File Change First Full Analyze Upon Folder Connect
+2025-06-04 11:30:07: E: Lendo Arquivo de Estado C:/Users/joao_/OneDrive/Documentos/Thryve/CLIENTES/Marcos sales/Site-Marcos/_gsdata_/_file_state_v4._gs
+2025-06-04 11:30:07: D: Lendo Arquivo de Estado ftp://147.79.84.153:21/public_html/_gsdata_/_file_state_v4._gs
+2025-06-04 11:30:09: D: No disco ftp://147.79.84.153:21, o espaço necessário para a sincronização é 0.00, o espaço livre é desconhecido
+2025-06-04 11:30:09: Alterações: 0, Conflitos: 0, Tempo: 0, Correções: 0, Erros: 0, All: 175
+2025-06-04 11:30:09: - Análise concluída. Tempo 00:00:02, Velocidade: 87 arquivos/s
