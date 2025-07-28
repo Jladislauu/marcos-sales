@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Tenta enviar
     if (mail($to, $email_subject, $email_body, $headers)) {
         http_response_code(200);
-        echo "Mensagem enviada com sucesso.";
+        echo "OK";
     } else {
         http_response_code(500);
         echo "Erro ao enviar a mensagem.";
