@@ -40,4 +40,4 @@
     'matomo_analytics_site_id' => vars('matomo_analytics_site_id'),
 ]); ?>
 
-<?php end_section('scripts'); ?>
+<?php end_section('scripts'); ?> 
